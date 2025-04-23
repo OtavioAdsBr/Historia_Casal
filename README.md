@@ -18,3 +18,22 @@ Este é um site especial criado para contar a história de um relacionamento de 
 - Spotify Embed (opcional)
 - Git e GitHub
 
+## 🚀 Como usar
+### Clone o repositório:
+
+- git clone https://github.com/OtavioAdsBr/Historia_Casal.git
+
+### Acesse a pasta do projeto:
+
+- cd nossa-historia-6-anos
+
+### Abra o arquivo index.html no navegador ou hospede-o em serviços como GitHub Pages.
+
+## 🆘 Suporte
+- Caso tenha dúvidas ou queira adaptar o projeto para contar sua própria história, envie uma issue aqui no repositório ou entre em contato diretamente com os autores.
+
+## 👩‍💻 Autores
+- Otávio Vinícius Rosa – Idealização, desenvolvimento e design romântico
+
+
+
